@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/KittyMac/Chronometer.git", from: "0.1.0"),
         .package(url: "https://github.com/KittyMac/Hitch.git", from: "0.4.0"),
-        .package(url: "https://github.com/KittyMac/Spanker.git", from: "0.2.36"),
+        .package(url: "https://github.com/thebrowsercompany/Spanker.git", branch: "timi/v0.2.47-plus-fix"),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "1.0.0"),
     ],
     targets: [

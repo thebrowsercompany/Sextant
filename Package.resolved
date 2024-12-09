@@ -21,10 +21,10 @@
     {
       "identity" : "spanker",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/KittyMac/Spanker.git",
+      "location" : "https://github.com/thebrowsercompany/Spanker.git",
       "state" : {
-        "revision" : "96e58f68274a2e6f370fff153ceb5674a06936c4",
-        "version" : "0.2.47"
+        "branch" : "timi/v0.2.47-plus-fix",
+        "revision" : "8e54cc59440c6ebb82286f3a3f5ee3f8f134fc70"
       }
     },
     {
